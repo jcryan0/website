@@ -3,7 +3,7 @@ body {
     color: black;
 }
   
-body[theme="dark"] {
+.dark-mode {
     background-color: black;
     color: white;
 }
